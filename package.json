@@ -9,6 +9,7 @@
   "dependencies": {
     "@google/genai": "latest",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#bd5e1b7"
+    "whatsapp-web.js": "latest"
   }
 }
+
