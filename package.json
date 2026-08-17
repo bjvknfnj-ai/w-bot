@@ -2,6 +2,7 @@
   "name": "whatsapp-bot",
   "version": "1.0.0",
   "description": "WhatsApp Auto-Reply Bot with Gemini",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,4 +13,5 @@
     "whatsapp-web.js": "latest"
   }
 }
+
 
